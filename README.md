@@ -10,16 +10,14 @@
 A few things about me:
 
 - Current Age:  27
-- :mortar_board: : I graduated from the illustrious South Carolina State University 17' in Computer Science
+- :mortar_board: : I graduated from the illustrious South Carolina State University '17 in Computer Science
 
 - 🔭 I’m currently working on [freeCodeCamp's Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/)
 - 🌱 I’m currently learning HTML5, CSS3, and Javascript
 
-- 📫 How to reach me: [My email](dyara.williams@gmail.com)
+- 📫 How to reach me: (dyara.williams@gmail.com)
 
 ## 😄 Happy Coding ... !😄
-
-
 
 ### Connect with me: 
 
