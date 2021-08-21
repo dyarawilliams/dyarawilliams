@@ -1,4 +1,4 @@
-# Hi, I'm D'yara ... 👩🏾‍💻
+<img src="/my-Banner.png" alt="An image of my banner"/>
 
 <!--
 **dyarawilliams/dyarawilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
