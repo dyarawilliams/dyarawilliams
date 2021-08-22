@@ -44,6 +44,9 @@ A few things about me:
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+![D'yara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni)
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyarawilliams&show_icons=true&locale=en&layout=compact" alt="dyarawilliams" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyarawilliams&label=Profile%20views&color=ff69b4&style=plastic" alt="dyarawilliams" /> </p>
