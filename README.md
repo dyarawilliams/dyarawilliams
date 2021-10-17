@@ -10,7 +10,7 @@ A few things about me:
 
 - :mortar_board: : I graduated from the illustrious South Carolina State University '17 in Computer Science
 
-- 🔭 I’m currently working on [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/), [100Devs Full Stack Web Development Bootcamp](https://leonnoel.com/100devs/), [JavaScript30](https://javascript30.com), and my [100 Hours Project - Book Up](https://github.com/dyarawilliams/book-up).
+- 🔭 I’m currently working on [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/), [JavaScript30](https://javascript30.com), and my [100 Hours Project - Book Up](https://github.com/dyarawilliams/book-up).
 
 - 🌱 I’m currently learning Javascript, NodeJS, and MongoDB.
 
