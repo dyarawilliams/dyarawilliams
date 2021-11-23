@@ -12,7 +12,7 @@ A few things about me:
 
 - 🔭 I’m currently working on [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/), [JavaScript30](https://javascript30.com), and my [100 Hours Project - Book Up](https://github.com/dyarawilliams/book-up).
 
-- 🌱 I’m currently learning Javascript, NodeJS, and MongoDB.
+- 🌱 I’m currently learning NodeJS, and React.
 
 - 🤔 I’m looking for help with Full Stack Web Development.
 
