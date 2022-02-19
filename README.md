@@ -6,27 +6,35 @@
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 -->
-A few things about me:
+<div align="center">
+  <h3 align="center">😄 Happy Coding ... !😄</h3>
+</div>
+
+### A few things about me:
 
 - :mortar_board: : I graduated from the illustrious South Carolina State University '17 in Computer Science
 
 - 🔭 I’m currently working on [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/), [JavaScript30](https://javascript30.com), and my [100 Hours Project - Book Up](https://github.com/dyarawilliams/book-up).
 
-- 🌱 I’m currently learning NodeJS, and React.
+- 🌱 I’m currently learning more about NodeJS & React. (I'd like to test out React Native also. :) )
 
-- 🤔 I’m looking for help with Full Stack Web Development.
+- 🥰 I’m looking for help with Full Stack Web Development.
+
+- ⌨️ I've coded this much: [![wakatime](https://wakatime.com/badge/user/374368ff-083b-4229-b46b-62cd1dbb07ec.svg)](https://wakatime.com/@374368ff-083b-4229-b46b-62cd1dbb07ec)
+
+<br />
 
 
-## 😄 Happy Coding ... !😄
 
-### Connect with me: 
+<!-- ### Connect with me: 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xchaoticrage) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/dyarawilliams) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dyara-williams//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dyara-williams//) -->
 
-### Languages and Tools
-<p align="left"> 
+<p align="center">
+  <h2>Languages and Tools </h2>
+<p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <a href="https://getbootstrap.com/" >
@@ -48,11 +56,12 @@ A few things about me:
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+</p>
 
 ![D'yara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyarawilliams&show_icons=true&locale=en&layout=compact" alt="dyarawilliams" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyarawilliams&show_icons=true&locale=en&layout=compact" alt="dyarawilliams" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyarawilliams&label=Profile%20views&color=ff69b4&style=plastic" alt="dyarawilliams" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dyarawilliams&label=Profile%20views&color=ff69b4&style=plastic" alt="dyarawilliams" /> </p>
 
