@@ -32,10 +32,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/dyarawilliams) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dyara-williams//) -->
 
-<p align="center">
-  <h2>Languages and Tools </h2>
-</p>
-<p align="left">
+<h2 align="center">Tech Stack and Tools </h2>
+<p align="center" >
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <a href="https://getbootstrap.com/" >
@@ -44,6 +42,9 @@
   <a href="https://www.sass-lang.com/" target="_blank">
     <img alt="SaSS" src="https://img.shields.io/badge/sass-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </a>
@@ -51,9 +52,7 @@
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   </a>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  </a>
+  
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <a href="#" target="_blank">
@@ -66,8 +65,11 @@
 
 ![D'yara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyarawilliams&show_icons=true&locale=en&layout=compact&theme=omni" alt="dyarawilliams" />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyarawilliams&show_icons=true&locale=en&layout=compact" alt="dyarawilliams" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dyarawilliams&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="dyarawilliams" />
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dyarawilliams&label=Profile%20views&color=ff69b4&style=plastic" alt="dyarawilliams" /> </p>
+  
 
