@@ -14,7 +14,7 @@
 
 - :mortar_board: : I graduated from the illustrious South Carolina State University '17 in Computer Science
 
-- 🔭 I’m currently working on [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/), [JavaScript30](https://javascript30.com), and my [100 Hours Project - Book Up](https://github.com/dyarawilliams/book-up).
+- 🔭 I’m currently working on [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
 - 🌱 I’m currently learning more about NodeJS & React. (I'd like to test out React Native also. :) )
 
@@ -34,6 +34,7 @@
 
 <p align="center">
   <h2>Languages and Tools </h2>
+</p>
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -54,8 +55,13 @@
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   </a>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <a href="#" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  </a>
 </p>
 
 ![D'yara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni)
