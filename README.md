@@ -16,52 +16,31 @@
 
 - 🔭 I’m currently working on [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
-- 🌱 I’m currently learning more about NodeJS & React. (I'd like to test out React Native also. :) )
+- 🌱 I’m currently learning more about Full Stack Web Development & AI/ML.
 
-- 🥰 I’m looking for help with Full Stack Web Development.
+- 🥰 I’m looking for help with AI/ML. 
 
 - ⌨️ I've coded this much: [![wakatime](https://wakatime.com/badge/user/374368ff-083b-4229-b46b-62cd1dbb07ec.svg)](https://wakatime.com/@374368ff-083b-4229-b46b-62cd1dbb07ec)
 
 <br />
 
+### Connect with me: 
 
-
-<!-- ### Connect with me: 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xchaoticrage) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/dyarawilliams) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dyara-williams//) -->
-
-<h2 align="center">Tech Stack and Tools </h2>
-<p align="center" >
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <a href="https://getbootstrap.com/" >
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<p>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/dyara-williams/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.sass-lang.com/" target="_blank">
-    <img alt="SaSS" src="https://img.shields.io/badge/sass-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  </a>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <a href="#" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <a href="https://twitter.com/xchaoticrage">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
+
+<h2 align="center">Tech Stack and Tools </h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nodejs,mongodb,postgres,nextjs,java,python,git,vscode,linux" />
+    </a>
+  </p>
 
 ![D'yara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni)
 
