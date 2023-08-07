@@ -6,9 +6,14 @@
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 -->
-<div align="center">
-  <h3 align="center">😄 Happy Coding ... !😄</h3>
-</div>
+
+
+<p align="center">
+  <h1 align="center">Hi 👋, I'm D'yara Williams</h1>
+  <h3>Passionate Full-Stack Developer specializing in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. I have a passion for creating dynamic user experiences while considering Search Engine Optimization (SEO), Accessibility, and writing reusable and efficient code.</h3>
+  <img align="right" alt="Coding" width="400" src="/computer.gif">
+  <img src="https://komarev.com/ghpvc/?username=dyarawilliams&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="dyarawilliams" />
+</p>
 
 ### A few things about me:
 
@@ -42,13 +47,19 @@
     </a>
   </p>
 
-![D'yara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyarawilliams&show_icons=true&locale=en&layout=compact&theme=omni" alt="dyarawilliams" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dyarawilliams&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="dyarawilliams" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyarawilliams&show_icons=true&locale=en&theme=omni" alt="dyarawilliams" />
 </p>
+
+</br>
+</br>
+</br>
+
+<div align="center">
+  <h2>😄 Happy Coding ... !😄</h2>
+</div>
+
 
   
 
