@@ -10,7 +10,7 @@
 
 <p align="center">
   <h1 align="center">Hi 👋, I'm D'yara Williams</h1>
-  <h3>Passionate Full-Stack Developer specializing in front-end technologies like HTML, CSS, JavaScript, React, and back-end technologies like Node.js and MongoDB. I have a passion for creating dynamic user experiences while considering Search Engine Optimization (SEO), Accessibility, and writing reusable and efficient code.</h3>
+  <h3>Passionate Full-Stack Developer specializing in front-end technologies like HTML, CSS, JavaScript, React, and back-end technologies like Node.js, SQL, and MongoDB. I have a passion for creating dynamic user experiences while considering Search Engine Optimization (SEO), Accessibility, and writing reusable and efficient code.</h3>
   <img align="right" alt="Coding" width="400" src="/computer.gif">
   <img src="https://komarev.com/ghpvc/?username=dyarawilliams&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="dyarawilliams" />
 </p>
