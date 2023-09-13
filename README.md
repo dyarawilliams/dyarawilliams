@@ -48,8 +48,8 @@
   </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyarawilliams&show_icons=true&locale=en&theme=omni" alt="dyarawilliams" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni" alt="dyara williams stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyarawilliams&show_icons=true&locale=en&theme=omni" alt="dyara williams top lang stats" />
 </p>
 
 </br>
