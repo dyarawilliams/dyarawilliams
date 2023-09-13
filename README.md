@@ -48,13 +48,13 @@
   </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni" alt="dyara williams stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyarawilliams&show_icons=true&locale=en&theme=omni" alt="dyara williams top lang stats" />
+  <img align="left" src="https://github-readme-stats-dyarawilliams.vercel.app/api?username=dyarawilliams&show_icons=true&theme=omni" alt="dyara williams stats" />
 </p>
 
-</br>
-</br>
-</br>
+<a href="https://wakatime.com/@dyarawilliams">
+  <img align="center" src="https://github-readme-stats-dyarawilliams.vercel.app/api/wakatime?username=dyarawilliams&layout=compact&theme=omni" alt="Dyara Waka Time Stats" />
+</a>
+
 
 <div align="center">
   <h2>😄 Happy Coding ... !😄</h2>
