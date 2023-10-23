@@ -29,6 +29,8 @@
 
 <br />
 
+[![An image of @dyarawilliams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dyarawilliams)](https://holopin.io/@dyarawilliams)
+
 ### Connect with me: 
 
 <p>
