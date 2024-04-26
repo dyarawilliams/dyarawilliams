@@ -19,11 +19,11 @@
 
 - :mortar_board: : I graduated from the illustrious South Carolina State University '17 in Computer Science
 
-- 🔭 I’m currently working on [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+- 🔭 I’m currently working on [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 - 🌱 I’m currently learning more about Full Stack Web Development & AI/ML.
 
-- 🥰 I’m looking for help with Web Development & AI/ML. 
+- 🥰 I’m looking for help with Software Engineering & AI/ML. 
 
 - ⌨️ I've coded this much: [![wakatime](https://wakatime.com/badge/user/374368ff-083b-4229-b46b-62cd1dbb07ec.svg)](https://wakatime.com/@374368ff-083b-4229-b46b-62cd1dbb07ec)
 
