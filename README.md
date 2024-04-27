@@ -7,7 +7,6 @@
 - 💬 Ask me about ...
 -->
 
-
 <p align="center">
   <h1 align="center">Hi 👋, I'm D'yara Williams</h1>
   <h3>Passionate Full-Stack Developer specializing in front-end technologies like HTML, CSS, JavaScript, React, and back-end technologies like Node.js, SQL, PostgreSQL, and MongoDB. I have a passion for creating dynamic user experiences while considering Search Engine Optimization (SEO), Accessibility, and writing reusable and efficient code.</h3>
