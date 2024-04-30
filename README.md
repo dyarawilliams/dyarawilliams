@@ -56,7 +56,6 @@
   <img align="center" src="https://github-readme-stats-dyarawilliams.vercel.app/api/wakatime?username=dyarawilliams&layout=compact&theme=omni" alt="Dyara Waka Time Stats" />
 </a>
 
-
 <div align="center">
   <h2>😄 Happy Coding!😄</h2>
 </div>
