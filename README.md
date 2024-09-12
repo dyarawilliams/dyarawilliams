@@ -24,7 +24,7 @@
 
 - 🥰 I’m looking for help with Software Engineering & AI/ML. 
 
-- ⌨️ I've coded this much: [![wakatime](https://wakatime.com/badge/user/374368ff-083b-4229-b46b-62cd1dbb07ec.svg)](https://wakatime.com/@374368ff-083b-4229-b46b-62cd1dbb07ec)
+- ⌨️ I've coded this much: [![wakatime](https://wakatime.com/badge/user/374368ff-083b-4229-b46b-62cd1dbb07ec.svg?style=for-the-badge&color=ff69b4)](https://wakatime.com/@374368ff-083b-4229-b46b-62cd1dbb07ec)
 
 <br />
 
