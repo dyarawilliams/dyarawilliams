@@ -18,7 +18,7 @@
 
 - :mortar_board: : I graduated from the illustrious South Carolina State University '17 in Computer Science
 
-- 🔭 I’m currently working on [Python For Everybody](https://www.py4e.com/)
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning more about Full Stack Web Development & AI/ML.
 
