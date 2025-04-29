@@ -18,7 +18,7 @@
 
 - :mortar_board: : I graduated from the illustrious South Carolina State University '17 in Computer Science
 
-- 🔭 I’m currently working on Codewars Challenges
+- 🔭 I’m currently working on [freeCodeCamp Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer)
 
 - 🌱 I’m currently learning more about Full Stack Web Development & AI/ML.
 
