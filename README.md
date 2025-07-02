@@ -44,7 +44,7 @@
 <h2 align="center">Tech Stack and Tools </h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nodejs,mongodb,postgres,nextjs,java,python,git,vscode,linux" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,nodejs,express,mongodb,postgres,nextjs,java,python,git,vscode,linux,jest" />
     </a>
   </p>
 
