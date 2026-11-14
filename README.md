@@ -11,7 +11,7 @@
 <p>
   <a href="https://dyarawilliams.com"><img alt="Website: dyarawilliams.com" src="https://img.shields.io/badge/Website-9D3A68?style=for-the-badge" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/dyara-williams/"><img alt="LinkedIn: dyara-williams" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dyarawilliams"><img alt="LinkedIn: dyara-williams" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
   &nbsp;
   <a href="https://twitter.com/xchaoticrage"><img alt="Twitter: @xchaoticrage" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
 </p>
