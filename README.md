@@ -92,11 +92,7 @@ An AI-powered South Carolina CNA certification navigator and confidence coach, g
   <br />
   <div align="center">
     <a href="https://wakatime.com/@dyarawilliams">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dyarawilliams.vercel.app/api/wakatime?username=dyarawilliams&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FF8FBF&amp;text_color=e6edf3&amp;icon_color=FF8FBF" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dyarawilliams.vercel.app/api/wakatime?username=dyarawilliams&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=9D3A68&amp;text_color=24292f&amp;icon_color=9D3A68" />
-        <img alt="WakaTime language breakdown for D'yara Williams" src="https://github-readme-stats-dyarawilliams.vercel.app/api/wakatime?username=dyarawilliams&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=9D3A68&amp;text_color=24292f&amp;icon_color=9D3A68" />
-      </picture>
+      <img alt="WakaTime language breakdown for D'yara Williams" src="https://wakatime.com/share/@dyarawilliams/44dc2f42-8c5e-4989-a028-07be7810fee4.svg" />
     </a>
   </div>
 </details>
